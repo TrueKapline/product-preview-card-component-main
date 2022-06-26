@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-flexbox-product-preview-card-39hMBv_vpQ)
+- [Live site URL](http://kapline.me/product-preview-card-component-main/)
 
 ## My process
 
